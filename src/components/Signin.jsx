@@ -6,7 +6,7 @@ const Signin=()=>{
             <h6 className="signup">
             See personalized recommendations
             </h6>
-            <a href="https://amz-clone-react-app-0030.web.app/login">
+            <a href="#">
             <button type="button" class="btn btn-warning" >sign in</button>
             </a>
             
