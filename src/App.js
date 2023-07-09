@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React  from "react";
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import Navbar from "./Navbar";
+import Navbottom from "./components/Navbottom";
+import Carousel1 from "./components/Carousel1";
+import Secondcard from "./components/Secondcard";
+import Thirdcard from './components/Thirdcard';
+import Cardslider from "./components/Cardslider";
+import Signin from "./components/Signin";
+import Footer from "./components/Footer";
+import Firscomponent from "./components/firstcomponent";
+import Navupper from "./components/Navupper";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>
+      <Navupper />
+   <Navbottom />
+   <Carousel1 />
+   <Firscomponent  />
+   <Secondcard />
+   <Thirdcard />
+   <Cardslider />
+   <Signin />
+   <Footer />
+   </div>
   );
 }
 

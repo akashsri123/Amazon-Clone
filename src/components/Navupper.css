@@ -1,0 +1,289 @@
+.mainlastdiv{
+    position: fixed;
+    z-index: 2;
+
+}
+.upperdiv{
+    width: 100%;
+    height: 60px;
+    background-color: #131921;
+    display: grid;
+    grid-template-columns: 0.7fr 2fr 1fr;
+    color: white;
+    /* position: fixed; */
+    padding-top: 5px;
+}
+.forborder:hover{
+    border-color: white;
+    border: 1px solid white;
+}
+.upperdiv img{
+    width: 30%;
+    height: 50%;
+}
+.alllogodiv{
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+}
+
+.logodiv img{
+width: 70%;
+height: 60%;
+margin: 10px;
+}
+
+
+
+#myDIV{
+    border-radius: 4px;
+    background-color: white;
+    position: absolute;
+top: 60px;
+right: 30px;
+    /* margin-top: 100px; */
+    /* margin-right: 100px; */
+ 
+    /* width: 30%; */
+    height: 320px;
+    /* width */
+    width: 400px;
+    display: none;
+    color: black;
+
+}
+.onhoverdiv h5{
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: medium;
+}
+.diffonhoverdiv{
+    padding-left: 30px;
+    padding-right: 0;
+}
+.onhoverdiv li{
+    padding-top: 10px;
+}
+.onhoverdiv li:hover{
+   color: #cd9042;
+   text-decoration: underline;
+   cursor: pointer;
+}
+
+
+
+
+#mydiv .row:hover .forborder{
+    border: 0px solid white;
+    background-color: #cd9042;
+}
+
+#myDIV ul{
+    list-style: none;
+    padding: 0;
+
+}
+
+
+
+
+
+
+
+
+
+.rightsidediv{
+    display: grid;
+    grid-template-columns:0.5fr 2fr 1fr 1fr;
+}
+
+
+.rightdivfirstbox img{
+    width: 65%;
+    height: 35%;
+}
+.rightdivfirstbox span{
+    font-weight: bolder;
+    font-size: small;
+}
+
+
+#myDIV1{
+    background-color: white;
+    position: absolute;
+top: 60px;
+right: 165px;
+
+ z-index: 4;
+   border-radius: 4px;
+    height: 300px;
+    width: 250px;
+    display: none;
+    color: black;
+padding-left: 15px;
+}
+#myDIV1 label{
+    margin-bottom: 0;
+    font-weight:lighter;
+    font-size: small;
+    margin-left: 5px;
+}
+#myDIV1 hr{
+    margin: 0;
+}
+#myDIV1 div{
+    padding-top: 5px;
+    font-weight:lighter;
+    font-size: small;
+}
+/* #myDIV1 div:hover{
+    color: #cd9042;
+   text-decoration: underline;
+} */
+#myDIV1 label:hover{
+    color: #cd9042;
+   text-decoration: underline;
+}
+
+#myDIV1 a{
+    text-decoration: none;
+    font-weight:400;
+    font-size: medium;
+    padding-left:15px;
+}
+
+
+
+
+
+.locationdiv{
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+}
+.locationlog{
+    margin-top: 15px;
+}
+.address{
+    font-size: small;
+    padding: 5px 0px 0 0px;
+
+}
+.mainaddress{
+    font-weight: bolder;
+
+}
+
+.input{
+    display: grid;
+    grid-template-columns: 2fr 15fr 2fr;
+}
+
+
+.inputdiv{
+    width: 100%;
+    height: 33px;
+    border: 0px solid white;
+        
+}
+.alldiv{
+    padding-top: 8px;
+}
+.allspan{
+    padding-top: 4px;
+   display: inline-block;
+    background-color: #d3d3d3;
+    color: black;
+    height: 33px;
+    margin-left: 48px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-left: 0px solid white;
+}
+.inputtdiv{
+    padding-top: 8px;
+}
+.searchicondiv{
+    padding-top: 8px;
+}
+.searchicon{
+display: inline-block;
+background-color: #cd9042;
+height: 33px;
+width: 35px;
+color: black;
+/* margin-left: 5px; */
+padding-left: 10px;
+padding-top: 1px;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+.greetdiv{
+    padding: 5px 0 0 10px;
+    font-size: small;
+    margin-left: 30px;
+}
+.accounts{
+    font-weight: bolder;
+}
+
+
+
+
+
+.returndiv{
+    padding: 5px 0 0 10px;
+    font-size: small;
+}
+.order{
+    font-weight: bolder;
+}
+
+
+
+
+
+
+.cartdiv{
+    padding: 10px 0 0 10px;
+    height: 100%;
+ 
+}
+.cartname{
+    margin-left:  2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

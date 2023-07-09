@@ -1,0 +1,70 @@
+.cardbody{
+    margin:0% auto;
+    /* background-color: aqua; */
+  
+    width: 98%;
+    height: 35rem;
+  
+}
+.carddiv{
+    margin: 0%;
+}
+.carddiv1{
+margin:0% auto 1%;
+}
+.cardbody ul{
+    display: flex;
+    list-style: none;
+    color: inherit;
+    padding-left: 0%;
+}
+
+
+
+
+.carddiv .card{
+    padding: 4%;
+    height: 460px;
+}
+
+
+.carddiv .card-title{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:800;
+    font-size:large;
+    color: black;
+}
+.carddiv .card-subtitle{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:800;
+    font-size:large;
+    margin-top:1%;
+}
+.carddiv ul{
+    margin-top:1.5%;
+}
+.carddiv .card-img{
+    width: 200px;
+    height: 150px;
+    margin: 0% auto 10px;
+}
+
+.carddiv .btn-primary{
+    width: 30%;
+ margin: auto;
+    bottom: 0;
+    background-color: yellow;
+    color: black;
+    border-radius: 20px;
+    
+ }
+ .carddiv .tbutton{
+     width: 90%;
+     position: absolute;
+     display: inline-block;
+     bottom: 25;
+     text-align: center;
+     height: 50px;
+     margin-top: 10px;
+     
+ }

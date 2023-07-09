@@ -1,0 +1,117 @@
+.firstcompdiv .card-img{
+width: 50%;
+height: 30%;
+margin: 0% 17%;
+}
+.fcompdiv .card{
+    height: 350px;
+}
+.fcompdiv{
+    width: 100%;
+    margin: 0;
+}
+.scompdiv{
+    width: 100%;
+}
+
+.fcompdiv .card-title{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:800;
+    font-size:large;
+    color: black; 
+    margin: 0 0 15px 0;
+}
+.firstcompdiv .linkdivv{
+    position: absolute;
+    /* bottom: 0;    */
+    bottom: 0px;
+    left: 5%;
+    margin-bottom: 10px;
+}
+.fcompdiv .card-subtitle{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:600;
+    font-size:medium;
+    color: black;
+    
+    margin: 10px 0 10px 0;
+    padding-right: 15%;
+
+}
+
+.samediv .card-link{
+    position: absolute;
+/* bottom: 0;    */
+bottom: 0px;
+left: 5%;
+margin-bottom: 10px;
+
+}
+.samediv .card-img{
+    padding:0 5% 8%;
+    width: 100%;
+    height: 80%;
+
+}
+
+.lastdivv .btn-primary{
+    background-color: gold;
+    color: black;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.buttondiv{
+    text-align: center;
+    margin: 15px 0;
+}
+
+.lastdivv .card-img{
+    padding:0 5% 8%;
+    width: 90%;
+    height: 100%;
+    margin: 0 7%;
+}
+
+.videodiv{
+    padding: 10px;
+    padding-left: 20px;
+   display: flex;
+}
+.ytp-watch-later-icon{
+    display: none;
+}
+.nextdivv .card{
+    display: flex;
+    height: 443px;
+    padding: 10px;
+    margin: 10px 0 ;
+}
+
+.nextdivv .card-title{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight:800;
+    font-size:large;
+    color: black; 
+    margin: 0 0 15px 0;
+}
+.finaldivv{
+    width: 100%;
+    margin-top: 10px;
+}
+.videodiv{
+    padding: 25px 0px 25px 25px;
+}
+.nextdivv{
+    padding: 15px 0px 15px 25px;
+}
+.nextdivv .samediv .card{ 
+    padding:10px;
+    margin: 10px;
+}
+.nextdivv .samediv{ 
+    padding:0;
+    margin: 0;
+}
+.imgdivv{
+    height: 70%;
+}
