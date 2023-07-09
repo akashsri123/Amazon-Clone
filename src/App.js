@@ -1,6 +1,5 @@
 import React  from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
-import Navbar from "./Navbar";
 import Navbottom from "./components/Navbottom";
 import Carousel1 from "./components/Carousel1";
 import Secondcard from "./components/Secondcard";
