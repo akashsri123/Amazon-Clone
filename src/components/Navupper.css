@@ -1,7 +1,13 @@
 .mainlastdiv{
     position: fixed;
     z-index: 2;
+    padding: 0;
+    margin: 0;
 
+}
+body{
+    margin: 0;
+    padding: 0;
 }
 .upperdiv{
     width: 100%;

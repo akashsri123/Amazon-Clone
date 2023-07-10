@@ -20,7 +20,7 @@ slideButton.addEventListener("click", function() {
     slideContainer.classList.remove("slide-in");
   }
 return (
-    <div>
+    <div className="startnavbootom">
         <div className="faltudiv">
 
         </div>

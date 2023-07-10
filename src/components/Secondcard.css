@@ -50,12 +50,16 @@ margin:0% auto 1%;
 }
 
 .carddiv .btn-primary{
-    width: 30%;
+    width: 120px;
  margin: auto;
     bottom: 0;
-    background-color: yellow;
+    background-color: #fcd14b;
     color: black;
     border-radius: 20px;
+    border: 1px solid gold;
+      font-size: small;
+      font-family: Verdana, sans-serif;
+      font-weight:400;
     
  }
  .carddiv .tbutton{
@@ -66,5 +70,6 @@ margin:0% auto 1%;
      text-align: center;
      height: 50px;
      margin-top: 10px;
+     left:5%
      
  }

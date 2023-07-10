@@ -3,11 +3,21 @@
   height: 50px;
   width: 100%;
 
+ margin: 0;
+  padding: 0;
   
+}
+.startnavbootom{
+  width: 100%;
+
+  margin: 0;
+   padding: 0;
 }
 .faltudiv{
   height: 60px;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 .navbicon{
   margin: 0 8px 4px 0;
